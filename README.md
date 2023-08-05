@@ -1,4 +1,12 @@
-### Hi there 👋
+<h3 align = "center"> Hi there 👋 My name is Hassan Khan and I'm 
+currently a student pursuing a degree in Information Technology at 
+Mumbai University.</h3>
+<br>
+
+# 💫 About Me:
+Hi there! My name is Hassan Khan , and I'm currently a second-year Information Technology student with a goal to learn new programs and technologies. I have always been interested in technology and how it can be used to make people's lives easier and solve real world problems.
+# 📊 GitHub Stats:
+https://github-readme-stats.vercel.app/api?username=HIronF&theme=dark&hide_border
 
 <!--
 **HIronF/HIronF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
