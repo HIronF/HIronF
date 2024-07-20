@@ -4,7 +4,7 @@ Mumbai University.</h3>
 <br>
 
 # 💫 About Me:
-Hi there! My name is Hassan Khan , and I'm currently a second-year Information Technology student with a goal to learn new programs and technologies. I have always been interested in technology and how it can be used to make people's lives easier and solve real world problems.
+Hi there! My name is Hassan Khan , and I'm currently a third-year Information Technology student with a goal to learn new programs and technologies. I have always been interested in technology and how it can be used to make people's lives easier and solve real world problems.
 
 # 📊 GitHub Stats:
 https://github-readme-stats.vercel.app/api?username=HIronF&theme=dark&hide_border
